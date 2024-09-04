@@ -1,0 +1,6 @@
+**/__pycache__/
+.env
+.idea
+.mypy_cache
+.pytest_cache
+hubspot-py-utils.egg-info
